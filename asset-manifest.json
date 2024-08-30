@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/real-intelligence/static/css/main.c12750b6.css",
+    "main.js": "/real-intelligence/static/js/main.d1d0ee4d.js",
+    "static/js/453.c4c7d90d.chunk.js": "/real-intelligence/static/js/453.c4c7d90d.chunk.js",
+    "static/media/chad.png": "/real-intelligence/static/media/chad.75b5fc668f406f18d8f5.png",
+    "static/media/user_icon.png": "/real-intelligence/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/communication.png": "/real-intelligence/static/media/communication.c14aae747c5f8f2e2eb3.png",
+    "static/media/gallery_icon.png": "/real-intelligence/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/real-intelligence/index.html",
+    "main.c12750b6.css.map": "/real-intelligence/static/css/main.c12750b6.css.map",
+    "main.d1d0ee4d.js.map": "/real-intelligence/static/js/main.d1d0ee4d.js.map",
+    "453.c4c7d90d.chunk.js.map": "/real-intelligence/static/js/453.c4c7d90d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12750b6.css",
+    "static/js/main.d1d0ee4d.js"
+  ]
+}
